@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://home-assist-services-21f19.pages.dev/sitemap.xml
