@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://home-assist-services-21f19.pages.dev/sitemap.xml
+Sitemap: https://gmapsranker.github.io/home-assist-services-21f19/sitemap.xml
